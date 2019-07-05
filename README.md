@@ -15,8 +15,8 @@ Refresh the list of players to battle.
 What did I learn from my first project:
 
 -How to use pip to install packages.
--How to read documentation.
--Ability to research and solve specific problems.
--How to create classes and inherit from other classes.
--How to access data from dictionaries and lists.
--Using OpenCV, PYautoGUI, and numpy arraays to locate target pixels on screen.
+/n-How to read documentation.
+/n-Ability to research and solve specific problems.
+/n-How to create classes and inherit from other classes.
+/n-How to access data from dictionaries and lists.
+/n-Using OpenCV, PYautoGUI, and numpy arraays to locate target pixels on screen.
