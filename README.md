@@ -8,7 +8,7 @@ auto each arena battle, or what this script focuses on, using an arena offense c
 then auto the rest of the battle if any monsters remain. It will loop through this process until all wings that were specified are used.
 
 <h2>Future improvments:</h2>
-Allow the player to skip certain battles when the enemy team consists of specific monsters.
+Allow the player to skip certain battles when the enemy team consists of specific monsters.<br>
 Refresh the list of players to battle. 
 
 
