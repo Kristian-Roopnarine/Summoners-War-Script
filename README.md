@@ -7,7 +7,7 @@ The script will guide you to the arena, prompt how many wings you'd like to use 
 auto each arena battle, or what this script focuses on, using an arena offense called Double Lushen. It will pcik each skill in order and 
 then auto the rest of the battle if any monsters remain. It will loop through this process until all wings that were specified are used.
 
-<h2>Future improvments:</h2>
+<h1>Future improvments:</h1>
 Allow the player to skip certain battles when the enemy team consists of specific monsters.<br>
 Refresh the list of players to battle. 
 
