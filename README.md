@@ -19,4 +19,4 @@ Refresh the list of players to battle.
 -How to research specific problems pertaining to the script.<br>
 -How to create classes and inherit from other classes.<br>
 -How to access data from dictionaries and lists.<br>
--Using OpenCV, PYautoGUI, and numpy arraays to locate target pixels on screen.<br>
+-Using OpenCV, PYautoGUI, and numpy arrays to locate target pixels on screen.<br>
